@@ -9,5 +9,4 @@ public class UserServiceManagementSystemApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(UserServiceManagementSystemApplication.class, args);
 	}
-
 }
